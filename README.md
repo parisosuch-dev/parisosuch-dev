@@ -15,8 +15,8 @@ Interested in:
 - Brand design 💡
 
 Some applications I am working on:
-- [hyprcrd](https://hyprcrd.com) /// a digital business card 🔗
-- minimal menu (coming soon) // a minimalist designed qr code menu for restaurants 📃
+- [hyprcrd](https://hyprcrd.com) / a digital business card 🔗
+- minimal menu (coming soon) / a minimalist designed qr code menu for restaurants 📃
 - my own blog (coming soon) 📝
 - version 2.0 of my personal website (coming soon)
 - various small business websites 📈
