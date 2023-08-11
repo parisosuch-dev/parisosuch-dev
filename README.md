@@ -1,4 +1,4 @@
-# Welcome to one of my spots on the ☁️
+# Welcome To One of My Spots On The ☁️
 🖥️ Currently working as a Full Stack SWE
 
 ## Contacts
