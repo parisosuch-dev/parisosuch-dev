@@ -1,5 +1,5 @@
-# Welcome to My Github Home 🌠
-🖥️ Currently working as a Full Stack Software Engineer
+# Welcome to one of my spots on the ☁️
+🖥️ Currently working as a Full Stack SWE
 
 ## Contacts
 📫 Reach me at - paris@osuch.dev
@@ -13,6 +13,7 @@ Interested in:
 - Full stack web development 🕸️
 - UI/UX design 🎨
 - Brand design 💡
+- Astronomy and Phyics 🔭🌃
 
 Some applications I am working on:
 - [hyprcrd](https://hyprcrd.com) / a digital business card 🔗
