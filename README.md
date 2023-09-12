@@ -21,3 +21,6 @@ Some applications I am working on:
 - my own blog (coming soon) 📝
 - version 2.0 of my personal website (coming soon)
 - various small business websites 📈
+
+
+[![Paris' GitHub stats](https://github-readme-stats.vercel.app/api?username=parisosuch-dev)](https://github.com/anuraghazra/github-readme-stats)
