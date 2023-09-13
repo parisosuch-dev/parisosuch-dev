@@ -1,3 +1,5 @@
+<img src="pxris-logo-white.png" width="200">
+
 # Welcome To One of My Spots On The ☁️
 🖥️ Currently working as a Full Stack SWE
 
