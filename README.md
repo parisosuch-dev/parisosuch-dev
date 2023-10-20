@@ -19,7 +19,7 @@ Interested in:
 
 Some applications I am working on:
 - [hyprcrd](https://hyprcrd.com) / a digital business card 🔗
-- minimal menu (coming soon) / a minimalist designed qr code menu for restaurants 📃
+- cook-cli (coming soon) / a todo list for a better DX 📃
 - my own blog (coming soon) 📝
 - version 2.0 of my personal website (coming soon)
 - various small business websites 📈
