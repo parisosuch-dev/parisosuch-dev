@@ -8,7 +8,7 @@
 
 🌩️ My digital business card - [hyprcrd/paris](https://hyprcrd.com/paris)
 
-🌐 My personal website - [osuch.dev](https://osuch.dev)
+🌐 My personal website - [does not exist rn](https://pxris.net)
 
 ## About Me
 Interested in:
