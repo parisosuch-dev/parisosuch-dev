@@ -2,7 +2,7 @@
 🖥️ Currently working as a Full Stack SWE
 
 ## Contacts
-📫 Reach me at - paris@osuch.dev
+📫 Reach me at - parisosuch.dev@gmail.com
 
 🌩️ My digital business card - [hyprcrd/paris](https://hyprcrd.com/paris)
 
@@ -13,7 +13,7 @@ Interested in:
 - Full stack web development 🕸️
 - UI/UX design 🎨
 - Brand design 💡
-- Astronomy and Phyics 🔭🌃
+- Astronomy and Physics 🔭🌃
 
 Some applications I am working on:
 - [hyprcrd](https://hyprcrd.com) / a digital business card 🔗
