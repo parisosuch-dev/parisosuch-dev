@@ -6,7 +6,7 @@
 
 🌩️ My digital business card - [hyprcrd/paris](https://hyprcrd.com/paris)
 
-🌐 My personal website - [does not exist rn](https://pxris.net)
+🌐 My personal website - [thanks to google domains selling their assets -- does not exist rn](https://pxris.net)
 
 ## About Me
 Interested in:
