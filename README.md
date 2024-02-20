@@ -2,7 +2,7 @@
 🖥️ Currently working as a Full Stack SWE
 
 ## Contacts
-📫 Reach me at - parisosuch.dev@gmail.com or paris@parisosuch.com
+📫 Reach me at - paris@parisosuch.com
 
 🌩️ My digital business card - [hyprcrd/paris](https://hyprcrd.com/paris)
 
